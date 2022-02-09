@@ -33,1323 +33,1323 @@
             "area":"ABR",
             "nome_area":"Abruzzo",
             "fascia_anagrafica":"05-11",
-            "totale_guariti":7759
+            "totale_guariti":8495
         },
         {
             "index":1,
             "area":"ABR",
             "nome_area":"Abruzzo",
             "fascia_anagrafica":"12-19",
-            "totale_guariti":3454
+            "totale_guariti":3685
         },
         {
             "index":2,
             "area":"ABR",
             "nome_area":"Abruzzo",
             "fascia_anagrafica":"20-29",
-            "totale_guariti":2178
+            "totale_guariti":2269
         },
         {
             "index":3,
             "area":"ABR",
             "nome_area":"Abruzzo",
             "fascia_anagrafica":"30-39",
-            "totale_guariti":2888
+            "totale_guariti":3093
         },
         {
             "index":4,
             "area":"ABR",
             "nome_area":"Abruzzo",
             "fascia_anagrafica":"40-49",
-            "totale_guariti":3563
+            "totale_guariti":3832
         },
         {
             "index":5,
             "area":"ABR",
             "nome_area":"Abruzzo",
             "fascia_anagrafica":"50-59",
-            "totale_guariti":3037
+            "totale_guariti":3236
         },
         {
             "index":6,
             "area":"ABR",
             "nome_area":"Abruzzo",
             "fascia_anagrafica":"60-69",
-            "totale_guariti":1194
+            "totale_guariti":1284
         },
         {
             "index":7,
             "area":"ABR",
             "nome_area":"Abruzzo",
             "fascia_anagrafica":"70-79",
-            "totale_guariti":476
+            "totale_guariti":511
         },
         {
             "index":8,
             "area":"ABR",
             "nome_area":"Abruzzo",
             "fascia_anagrafica":"80+",
-            "totale_guariti":264
+            "totale_guariti":277
         },
         {
             "index":9,
             "area":"BAS",
             "nome_area":"Basilicata",
             "fascia_anagrafica":"05-11",
-            "totale_guariti":2661
+            "totale_guariti":2998
         },
         {
             "index":10,
             "area":"BAS",
             "nome_area":"Basilicata",
             "fascia_anagrafica":"12-19",
-            "totale_guariti":1037
+            "totale_guariti":1130
         },
         {
             "index":11,
             "area":"BAS",
             "nome_area":"Basilicata",
             "fascia_anagrafica":"20-29",
-            "totale_guariti":627
+            "totale_guariti":655
         },
         {
             "index":12,
             "area":"BAS",
             "nome_area":"Basilicata",
             "fascia_anagrafica":"30-39",
-            "totale_guariti":864
+            "totale_guariti":934
         },
         {
             "index":13,
             "area":"BAS",
             "nome_area":"Basilicata",
             "fascia_anagrafica":"40-49",
-            "totale_guariti":953
+            "totale_guariti":1037
         },
         {
             "index":14,
             "area":"BAS",
             "nome_area":"Basilicata",
             "fascia_anagrafica":"50-59",
-            "totale_guariti":714
+            "totale_guariti":785
         },
         {
             "index":15,
             "area":"BAS",
             "nome_area":"Basilicata",
             "fascia_anagrafica":"60-69",
-            "totale_guariti":357
+            "totale_guariti":387
         },
         {
             "index":16,
             "area":"BAS",
             "nome_area":"Basilicata",
             "fascia_anagrafica":"70-79",
-            "totale_guariti":160
+            "totale_guariti":173
         },
         {
             "index":17,
             "area":"BAS",
             "nome_area":"Basilicata",
             "fascia_anagrafica":"80+",
-            "totale_guariti":70
+            "totale_guariti":82
         },
         {
             "index":18,
             "area":"CAL",
             "nome_area":"Calabria",
             "fascia_anagrafica":"05-11",
-            "totale_guariti":7318
+            "totale_guariti":8018
         },
         {
             "index":19,
             "area":"CAL",
             "nome_area":"Calabria",
             "fascia_anagrafica":"12-19",
-            "totale_guariti":5187
+            "totale_guariti":5440
         },
         {
             "index":20,
             "area":"CAL",
             "nome_area":"Calabria",
             "fascia_anagrafica":"20-29",
-            "totale_guariti":3604
+            "totale_guariti":3766
         },
         {
             "index":21,
             "area":"CAL",
             "nome_area":"Calabria",
             "fascia_anagrafica":"30-39",
-            "totale_guariti":4566
+            "totale_guariti":4779
         },
         {
             "index":22,
             "area":"CAL",
             "nome_area":"Calabria",
             "fascia_anagrafica":"40-49",
-            "totale_guariti":4134
+            "totale_guariti":4375
         },
         {
             "index":23,
             "area":"CAL",
             "nome_area":"Calabria",
             "fascia_anagrafica":"50-59",
-            "totale_guariti":3412
+            "totale_guariti":3645
         },
         {
             "index":24,
             "area":"CAL",
             "nome_area":"Calabria",
             "fascia_anagrafica":"60-69",
-            "totale_guariti":1865
+            "totale_guariti":1992
         },
         {
             "index":25,
             "area":"CAL",
             "nome_area":"Calabria",
             "fascia_anagrafica":"70-79",
-            "totale_guariti":863
+            "totale_guariti":939
         },
         {
             "index":26,
             "area":"CAL",
             "nome_area":"Calabria",
             "fascia_anagrafica":"80+",
-            "totale_guariti":407
+            "totale_guariti":438
         },
         {
             "index":27,
             "area":"CAM",
             "nome_area":"Campania",
             "fascia_anagrafica":"05-11",
-            "totale_guariti":47032
+            "totale_guariti":51065
         },
         {
             "index":28,
             "area":"CAM",
             "nome_area":"Campania",
             "fascia_anagrafica":"12-19",
-            "totale_guariti":23351
+            "totale_guariti":24764
         },
         {
             "index":29,
             "area":"CAM",
             "nome_area":"Campania",
             "fascia_anagrafica":"20-29",
-            "totale_guariti":15296
+            "totale_guariti":16014
         },
         {
             "index":30,
             "area":"CAM",
             "nome_area":"Campania",
             "fascia_anagrafica":"30-39",
-            "totale_guariti":19450
+            "totale_guariti":20496
         },
         {
             "index":31,
             "area":"CAM",
             "nome_area":"Campania",
             "fascia_anagrafica":"40-49",
-            "totale_guariti":18644
+            "totale_guariti":19697
         },
         {
             "index":32,
             "area":"CAM",
             "nome_area":"Campania",
             "fascia_anagrafica":"50-59",
-            "totale_guariti":14690
+            "totale_guariti":15592
         },
         {
             "index":33,
             "area":"CAM",
             "nome_area":"Campania",
             "fascia_anagrafica":"60-69",
-            "totale_guariti":7986
+            "totale_guariti":8483
         },
         {
             "index":34,
             "area":"CAM",
             "nome_area":"Campania",
             "fascia_anagrafica":"70-79",
-            "totale_guariti":3931
+            "totale_guariti":4202
         },
         {
             "index":35,
             "area":"CAM",
             "nome_area":"Campania",
             "fascia_anagrafica":"80+",
-            "totale_guariti":1897
+            "totale_guariti":2067
         },
         {
             "index":36,
             "area":"EMR",
             "nome_area":"Emilia-Romagna",
             "fascia_anagrafica":"05-11",
-            "totale_guariti":51870
+            "totale_guariti":54743
         },
         {
             "index":37,
             "area":"EMR",
             "nome_area":"Emilia-Romagna",
             "fascia_anagrafica":"12-19",
-            "totale_guariti":20063
+            "totale_guariti":20769
         },
         {
             "index":38,
             "area":"EMR",
             "nome_area":"Emilia-Romagna",
             "fascia_anagrafica":"20-29",
-            "totale_guariti":13855
+            "totale_guariti":14210
         },
         {
             "index":39,
             "area":"EMR",
             "nome_area":"Emilia-Romagna",
             "fascia_anagrafica":"30-39",
-            "totale_guariti":18583
+            "totale_guariti":19311
         },
         {
             "index":40,
             "area":"EMR",
             "nome_area":"Emilia-Romagna",
             "fascia_anagrafica":"40-49",
-            "totale_guariti":25330
+            "totale_guariti":26461
         },
         {
             "index":41,
             "area":"EMR",
             "nome_area":"Emilia-Romagna",
             "fascia_anagrafica":"50-59",
-            "totale_guariti":22200
+            "totale_guariti":23259
         },
         {
             "index":42,
             "area":"EMR",
             "nome_area":"Emilia-Romagna",
             "fascia_anagrafica":"60-69",
-            "totale_guariti":8728
+            "totale_guariti":9155
         },
         {
             "index":43,
             "area":"EMR",
             "nome_area":"Emilia-Romagna",
             "fascia_anagrafica":"70-79",
-            "totale_guariti":2983
+            "totale_guariti":3140
         },
         {
             "index":44,
             "area":"EMR",
             "nome_area":"Emilia-Romagna",
             "fascia_anagrafica":"80+",
-            "totale_guariti":1260
+            "totale_guariti":1349
         },
         {
             "index":45,
             "area":"FVG",
             "nome_area":"Friuli-Venezia Giulia",
             "fascia_anagrafica":"05-11",
-            "totale_guariti":11009
+            "totale_guariti":11580
         },
         {
             "index":46,
             "area":"FVG",
             "nome_area":"Friuli-Venezia Giulia",
             "fascia_anagrafica":"12-19",
-            "totale_guariti":7289
+            "totale_guariti":7568
         },
         {
             "index":47,
             "area":"FVG",
             "nome_area":"Friuli-Venezia Giulia",
             "fascia_anagrafica":"20-29",
-            "totale_guariti":4596
+            "totale_guariti":4740
         },
         {
             "index":48,
             "area":"FVG",
             "nome_area":"Friuli-Venezia Giulia",
             "fascia_anagrafica":"30-39",
-            "totale_guariti":6083
+            "totale_guariti":6328
         },
         {
             "index":49,
             "area":"FVG",
             "nome_area":"Friuli-Venezia Giulia",
             "fascia_anagrafica":"40-49",
-            "totale_guariti":9224
+            "totale_guariti":9658
         },
         {
             "index":50,
             "area":"FVG",
             "nome_area":"Friuli-Venezia Giulia",
             "fascia_anagrafica":"50-59",
-            "totale_guariti":9713
+            "totale_guariti":10251
         },
         {
             "index":51,
             "area":"FVG",
             "nome_area":"Friuli-Venezia Giulia",
             "fascia_anagrafica":"60-69",
-            "totale_guariti":3736
+            "totale_guariti":3915
         },
         {
             "index":52,
             "area":"FVG",
             "nome_area":"Friuli-Venezia Giulia",
             "fascia_anagrafica":"70-79",
-            "totale_guariti":1453
+            "totale_guariti":1526
         },
         {
             "index":53,
             "area":"FVG",
             "nome_area":"Friuli-Venezia Giulia",
             "fascia_anagrafica":"80+",
-            "totale_guariti":591
+            "totale_guariti":623
         },
         {
             "index":54,
             "area":"LAZ",
             "nome_area":"Lazio",
             "fascia_anagrafica":"05-11",
-            "totale_guariti":43904
+            "totale_guariti":49410
         },
         {
             "index":55,
             "area":"LAZ",
             "nome_area":"Lazio",
             "fascia_anagrafica":"12-19",
-            "totale_guariti":19940
+            "totale_guariti":21436
         },
         {
             "index":56,
             "area":"LAZ",
             "nome_area":"Lazio",
             "fascia_anagrafica":"20-29",
-            "totale_guariti":13226
+            "totale_guariti":13926
         },
         {
             "index":57,
             "area":"LAZ",
             "nome_area":"Lazio",
             "fascia_anagrafica":"30-39",
-            "totale_guariti":16585
+            "totale_guariti":17862
         },
         {
             "index":58,
             "area":"LAZ",
             "nome_area":"Lazio",
             "fascia_anagrafica":"40-49",
-            "totale_guariti":19937
+            "totale_guariti":21564
         },
         {
             "index":59,
             "area":"LAZ",
             "nome_area":"Lazio",
             "fascia_anagrafica":"50-59",
-            "totale_guariti":17071
+            "totale_guariti":18455
         },
         {
             "index":60,
             "area":"LAZ",
             "nome_area":"Lazio",
             "fascia_anagrafica":"60-69",
-            "totale_guariti":6833
+            "totale_guariti":7425
         },
         {
             "index":61,
             "area":"LAZ",
             "nome_area":"Lazio",
             "fascia_anagrafica":"70-79",
-            "totale_guariti":2455
+            "totale_guariti":2686
         },
         {
             "index":62,
             "area":"LAZ",
             "nome_area":"Lazio",
             "fascia_anagrafica":"80+",
-            "totale_guariti":989
+            "totale_guariti":1103
         },
         {
             "index":63,
             "area":"LIG",
             "nome_area":"Liguria",
             "fascia_anagrafica":"05-11",
-            "totale_guariti":10672
+            "totale_guariti":11911
         },
         {
             "index":64,
             "area":"LIG",
             "nome_area":"Liguria",
             "fascia_anagrafica":"12-19",
-            "totale_guariti":7030
+            "totale_guariti":7510
         },
         {
             "index":65,
             "area":"LIG",
             "nome_area":"Liguria",
             "fascia_anagrafica":"20-29",
-            "totale_guariti":4374
+            "totale_guariti":4574
         },
         {
             "index":66,
             "area":"LIG",
             "nome_area":"Liguria",
             "fascia_anagrafica":"30-39",
-            "totale_guariti":5490
+            "totale_guariti":5957
         },
         {
             "index":67,
             "area":"LIG",
             "nome_area":"Liguria",
             "fascia_anagrafica":"40-49",
-            "totale_guariti":7715
+            "totale_guariti":8306
         },
         {
             "index":68,
             "area":"LIG",
             "nome_area":"Liguria",
             "fascia_anagrafica":"50-59",
-            "totale_guariti":8166
+            "totale_guariti":8821
         },
         {
             "index":69,
             "area":"LIG",
             "nome_area":"Liguria",
             "fascia_anagrafica":"60-69",
-            "totale_guariti":3272
+            "totale_guariti":3615
         },
         {
             "index":70,
             "area":"LIG",
             "nome_area":"Liguria",
             "fascia_anagrafica":"70-79",
-            "totale_guariti":1153
+            "totale_guariti":1250
         },
         {
             "index":71,
             "area":"LIG",
             "nome_area":"Liguria",
             "fascia_anagrafica":"80+",
-            "totale_guariti":505
+            "totale_guariti":581
         },
         {
             "index":72,
             "area":"LOM",
             "nome_area":"Lombardia",
             "fascia_anagrafica":"05-11",
-            "totale_guariti":96581
+            "totale_guariti":101413
         },
         {
             "index":73,
             "area":"LOM",
             "nome_area":"Lombardia",
             "fascia_anagrafica":"12-19",
-            "totale_guariti":28528
+            "totale_guariti":29625
         },
         {
             "index":74,
             "area":"LOM",
             "nome_area":"Lombardia",
             "fascia_anagrafica":"20-29",
-            "totale_guariti":19933
+            "totale_guariti":20423
         },
         {
             "index":75,
             "area":"LOM",
             "nome_area":"Lombardia",
             "fascia_anagrafica":"30-39",
-            "totale_guariti":28557
+            "totale_guariti":29597
         },
         {
             "index":76,
             "area":"LOM",
             "nome_area":"Lombardia",
             "fascia_anagrafica":"40-49",
-            "totale_guariti":36347
+            "totale_guariti":37801
         },
         {
             "index":77,
             "area":"LOM",
             "nome_area":"Lombardia",
             "fascia_anagrafica":"50-59",
-            "totale_guariti":33732
+            "totale_guariti":35147
         },
         {
             "index":78,
             "area":"LOM",
             "nome_area":"Lombardia",
             "fascia_anagrafica":"60-69",
-            "totale_guariti":14129
+            "totale_guariti":14705
         },
         {
             "index":79,
             "area":"LOM",
             "nome_area":"Lombardia",
             "fascia_anagrafica":"70-79",
-            "totale_guariti":5418
+            "totale_guariti":5644
         },
         {
             "index":80,
             "area":"LOM",
             "nome_area":"Lombardia",
             "fascia_anagrafica":"80+",
-            "totale_guariti":2454
+            "totale_guariti":2594
         },
         {
             "index":81,
             "area":"MAR",
             "nome_area":"Marche",
             "fascia_anagrafica":"05-11",
-            "totale_guariti":15425
+            "totale_guariti":17177
         },
         {
             "index":82,
             "area":"MAR",
             "nome_area":"Marche",
             "fascia_anagrafica":"12-19",
-            "totale_guariti":7511
+            "totale_guariti":8027
         },
         {
             "index":83,
             "area":"MAR",
             "nome_area":"Marche",
             "fascia_anagrafica":"20-29",
-            "totale_guariti":4191
+            "totale_guariti":4422
         },
         {
             "index":84,
             "area":"MAR",
             "nome_area":"Marche",
             "fascia_anagrafica":"30-39",
-            "totale_guariti":5772
+            "totale_guariti":6187
         },
         {
             "index":85,
             "area":"MAR",
             "nome_area":"Marche",
             "fascia_anagrafica":"40-49",
-            "totale_guariti":8148
+            "totale_guariti":8771
         },
         {
             "index":86,
             "area":"MAR",
             "nome_area":"Marche",
             "fascia_anagrafica":"50-59",
-            "totale_guariti":6837
+            "totale_guariti":7389
         },
         {
             "index":87,
             "area":"MAR",
             "nome_area":"Marche",
             "fascia_anagrafica":"60-69",
-            "totale_guariti":2703
+            "totale_guariti":2896
         },
         {
             "index":88,
             "area":"MAR",
             "nome_area":"Marche",
             "fascia_anagrafica":"70-79",
-            "totale_guariti":934
+            "totale_guariti":1024
         },
         {
             "index":89,
             "area":"MAR",
             "nome_area":"Marche",
             "fascia_anagrafica":"80+",
-            "totale_guariti":523
+            "totale_guariti":563
         },
         {
             "index":90,
             "area":"MOL",
             "nome_area":"Molise",
             "fascia_anagrafica":"05-11",
-            "totale_guariti":1094
+            "totale_guariti":1274
         },
         {
             "index":91,
             "area":"MOL",
             "nome_area":"Molise",
             "fascia_anagrafica":"12-19",
-            "totale_guariti":348
+            "totale_guariti":387
         },
         {
             "index":92,
             "area":"MOL",
             "nome_area":"Molise",
             "fascia_anagrafica":"20-29",
-            "totale_guariti":253
+            "totale_guariti":280
         },
         {
             "index":93,
             "area":"MOL",
             "nome_area":"Molise",
             "fascia_anagrafica":"30-39",
-            "totale_guariti":338
+            "totale_guariti":372
         },
         {
             "index":94,
             "area":"MOL",
             "nome_area":"Molise",
             "fascia_anagrafica":"40-49",
-            "totale_guariti":372
+            "totale_guariti":414
         },
         {
             "index":95,
             "area":"MOL",
             "nome_area":"Molise",
             "fascia_anagrafica":"50-59",
-            "totale_guariti":287
+            "totale_guariti":322
         },
         {
             "index":96,
             "area":"MOL",
             "nome_area":"Molise",
             "fascia_anagrafica":"60-69",
-            "totale_guariti":133
+            "totale_guariti":151
         },
         {
             "index":97,
             "area":"MOL",
             "nome_area":"Molise",
             "fascia_anagrafica":"70-79",
-            "totale_guariti":68
+            "totale_guariti":79
         },
         {
             "index":98,
             "area":"MOL",
             "nome_area":"Molise",
             "fascia_anagrafica":"80+",
-            "totale_guariti":25
+            "totale_guariti":29
         },
         {
             "index":99,
             "area":"PAB",
             "nome_area":"P.A. Bolzano",
             "fascia_anagrafica":"05-11",
-            "totale_guariti":9013
+            "totale_guariti":9565
         },
         {
             "index":100,
             "area":"PAB",
             "nome_area":"P.A. Bolzano",
             "fascia_anagrafica":"12-19",
-            "totale_guariti":5241
+            "totale_guariti":5444
         },
         {
             "index":101,
             "area":"PAB",
             "nome_area":"P.A. Bolzano",
             "fascia_anagrafica":"20-29",
-            "totale_guariti":4525
+            "totale_guariti":4694
         },
         {
             "index":102,
             "area":"PAB",
             "nome_area":"P.A. Bolzano",
             "fascia_anagrafica":"30-39",
-            "totale_guariti":4584
+            "totale_guariti":4776
         },
         {
             "index":103,
             "area":"PAB",
             "nome_area":"P.A. Bolzano",
             "fascia_anagrafica":"40-49",
-            "totale_guariti":5017
+            "totale_guariti":5220
         },
         {
             "index":104,
             "area":"PAB",
             "nome_area":"P.A. Bolzano",
             "fascia_anagrafica":"50-59",
-            "totale_guariti":4834
+            "totale_guariti":5061
         },
         {
             "index":105,
             "area":"PAB",
             "nome_area":"P.A. Bolzano",
             "fascia_anagrafica":"60-69",
-            "totale_guariti":1831
+            "totale_guariti":1902
         },
         {
             "index":106,
             "area":"PAB",
             "nome_area":"P.A. Bolzano",
             "fascia_anagrafica":"70-79",
-            "totale_guariti":551
+            "totale_guariti":581
         },
         {
             "index":107,
             "area":"PAB",
             "nome_area":"P.A. Bolzano",
             "fascia_anagrafica":"80+",
-            "totale_guariti":265
+            "totale_guariti":284
         },
         {
             "index":108,
             "area":"PAT",
             "nome_area":"P.A. Trento",
             "fascia_anagrafica":"05-11",
-            "totale_guariti":5085
+            "totale_guariti":5424
         },
         {
             "index":109,
             "area":"PAT",
             "nome_area":"P.A. Trento",
             "fascia_anagrafica":"12-19",
-            "totale_guariti":3396
+            "totale_guariti":3559
         },
         {
             "index":110,
             "area":"PAT",
             "nome_area":"P.A. Trento",
             "fascia_anagrafica":"20-29",
-            "totale_guariti":2399
+            "totale_guariti":2477
         },
         {
             "index":111,
             "area":"PAT",
             "nome_area":"P.A. Trento",
             "fascia_anagrafica":"30-39",
-            "totale_guariti":3037
+            "totale_guariti":3159
         },
         {
             "index":112,
             "area":"PAT",
             "nome_area":"P.A. Trento",
             "fascia_anagrafica":"40-49",
-            "totale_guariti":3981
+            "totale_guariti":4177
         },
         {
             "index":113,
             "area":"PAT",
             "nome_area":"P.A. Trento",
             "fascia_anagrafica":"50-59",
-            "totale_guariti":4045
+            "totale_guariti":4233
         },
         {
             "index":114,
             "area":"PAT",
             "nome_area":"P.A. Trento",
             "fascia_anagrafica":"60-69",
-            "totale_guariti":1525
+            "totale_guariti":1595
         },
         {
             "index":115,
             "area":"PAT",
             "nome_area":"P.A. Trento",
             "fascia_anagrafica":"70-79",
-            "totale_guariti":455
+            "totale_guariti":481
         },
         {
             "index":116,
             "area":"PAT",
             "nome_area":"P.A. Trento",
             "fascia_anagrafica":"80+",
-            "totale_guariti":188
+            "totale_guariti":194
         },
         {
             "index":117,
             "area":"PIE",
             "nome_area":"Piemonte",
             "fascia_anagrafica":"05-11",
-            "totale_guariti":37820
+            "totale_guariti":41562
         },
         {
             "index":118,
             "area":"PIE",
             "nome_area":"Piemonte",
             "fascia_anagrafica":"12-19",
-            "totale_guariti":17325
+            "totale_guariti":18504
         },
         {
             "index":119,
             "area":"PIE",
             "nome_area":"Piemonte",
             "fascia_anagrafica":"20-29",
-            "totale_guariti":12011
+            "totale_guariti":12558
         },
         {
             "index":120,
             "area":"PIE",
             "nome_area":"Piemonte",
             "fascia_anagrafica":"30-39",
-            "totale_guariti":17087
+            "totale_guariti":18223
         },
         {
             "index":121,
             "area":"PIE",
             "nome_area":"Piemonte",
             "fascia_anagrafica":"40-49",
-            "totale_guariti":22574
+            "totale_guariti":24261
         },
         {
             "index":122,
             "area":"PIE",
             "nome_area":"Piemonte",
             "fascia_anagrafica":"50-59",
-            "totale_guariti":20892
+            "totale_guariti":22393
         },
         {
             "index":123,
             "area":"PIE",
             "nome_area":"Piemonte",
             "fascia_anagrafica":"60-69",
-            "totale_guariti":9159
+            "totale_guariti":9912
         },
         {
             "index":124,
             "area":"PIE",
             "nome_area":"Piemonte",
             "fascia_anagrafica":"70-79",
-            "totale_guariti":3573
+            "totale_guariti":3889
         },
         {
             "index":125,
             "area":"PIE",
             "nome_area":"Piemonte",
             "fascia_anagrafica":"80+",
-            "totale_guariti":1337
+            "totale_guariti":1483
         },
         {
             "index":126,
             "area":"PUG",
             "nome_area":"Puglia",
             "fascia_anagrafica":"05-11",
-            "totale_guariti":21641
+            "totale_guariti":23082
         },
         {
             "index":127,
             "area":"PUG",
             "nome_area":"Puglia",
             "fascia_anagrafica":"12-19",
-            "totale_guariti":7487
+            "totale_guariti":7920
         },
         {
             "index":128,
             "area":"PUG",
             "nome_area":"Puglia",
             "fascia_anagrafica":"20-29",
-            "totale_guariti":4843
+            "totale_guariti":5058
         },
         {
             "index":129,
             "area":"PUG",
             "nome_area":"Puglia",
             "fascia_anagrafica":"30-39",
-            "totale_guariti":6389
+            "totale_guariti":6797
         },
         {
             "index":130,
             "area":"PUG",
             "nome_area":"Puglia",
             "fascia_anagrafica":"40-49",
-            "totale_guariti":7239
+            "totale_guariti":7754
         },
         {
             "index":131,
             "area":"PUG",
             "nome_area":"Puglia",
             "fascia_anagrafica":"50-59",
-            "totale_guariti":5495
+            "totale_guariti":5892
         },
         {
             "index":132,
             "area":"PUG",
             "nome_area":"Puglia",
             "fascia_anagrafica":"60-69",
-            "totale_guariti":2482
+            "totale_guariti":2643
         },
         {
             "index":133,
             "area":"PUG",
             "nome_area":"Puglia",
             "fascia_anagrafica":"70-79",
-            "totale_guariti":1039
+            "totale_guariti":1138
         },
         {
             "index":134,
             "area":"PUG",
             "nome_area":"Puglia",
             "fascia_anagrafica":"80+",
-            "totale_guariti":503
+            "totale_guariti":537
         },
         {
             "index":135,
             "area":"SAR",
             "nome_area":"Sardegna",
             "fascia_anagrafica":"05-11",
-            "totale_guariti":6473
+            "totale_guariti":7595
         },
         {
             "index":136,
             "area":"SAR",
             "nome_area":"Sardegna",
             "fascia_anagrafica":"12-19",
-            "totale_guariti":2722
+            "totale_guariti":3032
         },
         {
             "index":137,
             "area":"SAR",
             "nome_area":"Sardegna",
             "fascia_anagrafica":"20-29",
-            "totale_guariti":1898
+            "totale_guariti":2032
         },
         {
             "index":138,
             "area":"SAR",
             "nome_area":"Sardegna",
             "fascia_anagrafica":"30-39",
-            "totale_guariti":2964
+            "totale_guariti":3262
         },
         {
             "index":139,
             "area":"SAR",
             "nome_area":"Sardegna",
             "fascia_anagrafica":"40-49",
-            "totale_guariti":3919
+            "totale_guariti":4411
         },
         {
             "index":140,
             "area":"SAR",
             "nome_area":"Sardegna",
             "fascia_anagrafica":"50-59",
-            "totale_guariti":3436
+            "totale_guariti":3861
         },
         {
             "index":141,
             "area":"SAR",
             "nome_area":"Sardegna",
             "fascia_anagrafica":"60-69",
-            "totale_guariti":1459
+            "totale_guariti":1646
         },
         {
             "index":142,
             "area":"SAR",
             "nome_area":"Sardegna",
             "fascia_anagrafica":"70-79",
-            "totale_guariti":580
+            "totale_guariti":638
         },
         {
             "index":143,
             "area":"SAR",
             "nome_area":"Sardegna",
             "fascia_anagrafica":"80+",
-            "totale_guariti":260
+            "totale_guariti":294
         },
         {
             "index":144,
             "area":"SIC",
             "nome_area":"Sicilia",
             "fascia_anagrafica":"05-11",
-            "totale_guariti":27074
+            "totale_guariti":29834
         },
         {
             "index":145,
             "area":"SIC",
             "nome_area":"Sicilia",
             "fascia_anagrafica":"12-19",
-            "totale_guariti":18752
+            "totale_guariti":19816
         },
         {
             "index":146,
             "area":"SIC",
             "nome_area":"Sicilia",
             "fascia_anagrafica":"20-29",
-            "totale_guariti":13474
+            "totale_guariti":14054
         },
         {
             "index":147,
             "area":"SIC",
             "nome_area":"Sicilia",
             "fascia_anagrafica":"30-39",
-            "totale_guariti":17190
+            "totale_guariti":18075
         },
         {
             "index":148,
             "area":"SIC",
             "nome_area":"Sicilia",
             "fascia_anagrafica":"40-49",
-            "totale_guariti":16792
+            "totale_guariti":17615
         },
         {
             "index":149,
             "area":"SIC",
             "nome_area":"Sicilia",
             "fascia_anagrafica":"50-59",
-            "totale_guariti":13349
+            "totale_guariti":14057
         },
         {
             "index":150,
             "area":"SIC",
             "nome_area":"Sicilia",
             "fascia_anagrafica":"60-69",
-            "totale_guariti":7890
+            "totale_guariti":8299
         },
         {
             "index":151,
             "area":"SIC",
             "nome_area":"Sicilia",
             "fascia_anagrafica":"70-79",
-            "totale_guariti":3833
+            "totale_guariti":4132
         },
         {
             "index":152,
             "area":"SIC",
             "nome_area":"Sicilia",
             "fascia_anagrafica":"80+",
-            "totale_guariti":1848
+            "totale_guariti":2024
         },
         {
             "index":153,
             "area":"TOS",
             "nome_area":"Toscana",
             "fascia_anagrafica":"05-11",
-            "totale_guariti":35910
+            "totale_guariti":38493
         },
         {
             "index":154,
             "area":"TOS",
             "nome_area":"Toscana",
             "fascia_anagrafica":"12-19",
-            "totale_guariti":11997
+            "totale_guariti":12669
         },
         {
             "index":155,
             "area":"TOS",
             "nome_area":"Toscana",
             "fascia_anagrafica":"20-29",
-            "totale_guariti":8021
+            "totale_guariti":8262
         },
         {
             "index":156,
             "area":"TOS",
             "nome_area":"Toscana",
             "fascia_anagrafica":"30-39",
-            "totale_guariti":10723
+            "totale_guariti":11265
         },
         {
             "index":157,
             "area":"TOS",
             "nome_area":"Toscana",
             "fascia_anagrafica":"40-49",
-            "totale_guariti":14999
+            "totale_guariti":15818
         },
         {
             "index":158,
             "area":"TOS",
             "nome_area":"Toscana",
             "fascia_anagrafica":"50-59",
-            "totale_guariti":13770
+            "totale_guariti":14666
         },
         {
             "index":159,
             "area":"TOS",
             "nome_area":"Toscana",
             "fascia_anagrafica":"60-69",
-            "totale_guariti":5500
+            "totale_guariti":5895
         },
         {
             "index":160,
             "area":"TOS",
             "nome_area":"Toscana",
             "fascia_anagrafica":"70-79",
-            "totale_guariti":2148
+            "totale_guariti":2317
         },
         {
             "index":161,
             "area":"TOS",
             "nome_area":"Toscana",
             "fascia_anagrafica":"80+",
-            "totale_guariti":828
+            "totale_guariti":917
         },
         {
             "index":162,
             "area":"UMB",
             "nome_area":"Umbria",
             "fascia_anagrafica":"05-11",
-            "totale_guariti":7626
+            "totale_guariti":8115
         },
         {
             "index":163,
             "area":"UMB",
             "nome_area":"Umbria",
             "fascia_anagrafica":"12-19",
-            "totale_guariti":2873
+            "totale_guariti":2979
         },
         {
             "index":164,
             "area":"UMB",
             "nome_area":"Umbria",
             "fascia_anagrafica":"20-29",
-            "totale_guariti":1643
+            "totale_guariti":1700
         },
         {
             "index":165,
             "area":"UMB",
             "nome_area":"Umbria",
             "fascia_anagrafica":"30-39",
-            "totale_guariti":2157
+            "totale_guariti":2261
         },
         {
             "index":166,
             "area":"UMB",
             "nome_area":"Umbria",
             "fascia_anagrafica":"40-49",
-            "totale_guariti":2741
+            "totale_guariti":2890
         },
         {
             "index":167,
             "area":"UMB",
             "nome_area":"Umbria",
             "fascia_anagrafica":"50-59",
-            "totale_guariti":2383
+            "totale_guariti":2533
         },
         {
             "index":168,
             "area":"UMB",
             "nome_area":"Umbria",
             "fascia_anagrafica":"60-69",
-            "totale_guariti":920
+            "totale_guariti":974
         },
         {
             "index":169,
             "area":"UMB",
             "nome_area":"Umbria",
             "fascia_anagrafica":"70-79",
-            "totale_guariti":358
+            "totale_guariti":378
         },
         {
             "index":170,
             "area":"UMB",
             "nome_area":"Umbria",
             "fascia_anagrafica":"80+",
-            "totale_guariti":232
+            "totale_guariti":239
         },
         {
             "index":171,
             "area":"VDA",
             "nome_area":"Valle d'Aosta",
             "fascia_anagrafica":"05-11",
-            "totale_guariti":566
+            "totale_guariti":640
         },
         {
             "index":172,
             "area":"VDA",
             "nome_area":"Valle d'Aosta",
             "fascia_anagrafica":"12-19",
-            "totale_guariti":751
+            "totale_guariti":803
         },
         {
             "index":173,
             "area":"VDA",
             "nome_area":"Valle d'Aosta",
             "fascia_anagrafica":"20-29",
-            "totale_guariti":477
+            "totale_guariti":496
         },
         {
             "index":174,
             "area":"VDA",
             "nome_area":"Valle d'Aosta",
             "fascia_anagrafica":"30-39",
-            "totale_guariti":652
+            "totale_guariti":693
         },
         {
             "index":175,
             "area":"VDA",
             "nome_area":"Valle d'Aosta",
             "fascia_anagrafica":"40-49",
-            "totale_guariti":1016
+            "totale_guariti":1089
         },
         {
             "index":176,
             "area":"VDA",
             "nome_area":"Valle d'Aosta",
             "fascia_anagrafica":"50-59",
-            "totale_guariti":924
+            "totale_guariti":981
         },
         {
             "index":177,
             "area":"VDA",
             "nome_area":"Valle d'Aosta",
             "fascia_anagrafica":"60-69",
-            "totale_guariti":354
+            "totale_guariti":388
         },
         {
             "index":178,
             "area":"VDA",
             "nome_area":"Valle d'Aosta",
             "fascia_anagrafica":"70-79",
-            "totale_guariti":151
+            "totale_guariti":156
         },
         {
             "index":179,
             "area":"VDA",
             "nome_area":"Valle d'Aosta",
             "fascia_anagrafica":"80+",
-            "totale_guariti":46
+            "totale_guariti":54
         },
         {
             "index":180,
             "area":"VEN",
             "nome_area":"Veneto",
             "fascia_anagrafica":"05-11",
-            "totale_guariti":51590
+            "totale_guariti":54609
         },
         {
             "index":181,
             "area":"VEN",
             "nome_area":"Veneto",
             "fascia_anagrafica":"12-19",
-            "totale_guariti":26649
+            "totale_guariti":27895
         },
         {
             "index":182,
             "area":"VEN",
             "nome_area":"Veneto",
             "fascia_anagrafica":"20-29",
-            "totale_guariti":18110
+            "totale_guariti":18758
         },
         {
             "index":183,
             "area":"VEN",
             "nome_area":"Veneto",
             "fascia_anagrafica":"30-39",
-            "totale_guariti":23773
+            "totale_guariti":24913
         },
         {
             "index":184,
             "area":"VEN",
             "nome_area":"Veneto",
             "fascia_anagrafica":"40-49",
-            "totale_guariti":33130
+            "totale_guariti":34945
         },
         {
             "index":185,
             "area":"VEN",
             "nome_area":"Veneto",
             "fascia_anagrafica":"50-59",
-            "totale_guariti":32116
+            "totale_guariti":34122
         },
         {
             "index":186,
             "area":"VEN",
             "nome_area":"Veneto",
             "fascia_anagrafica":"60-69",
-            "totale_guariti":12124
+            "totale_guariti":12868
         },
         {
             "index":187,
             "area":"VEN",
             "nome_area":"Veneto",
             "fascia_anagrafica":"70-79",
-            "totale_guariti":4146
+            "totale_guariti":4391
         },
         {
             "index":188,
             "area":"VEN",
             "nome_area":"Veneto",
             "fascia_anagrafica":"80+",
-            "totale_guariti":1716
+            "totale_guariti":1811
         }
     ]
 }
