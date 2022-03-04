@@ -4,6 +4,36 @@ Il file di **Changelog** raccoglie tutte le modifiche (presenti e future) ai fil
 
 ## Prossimi aggiornamenti
 
+## 01/03/2022
+
+Aggiunto il valore **booster_immuni** che identifica il numero di dosi booster somministrate a soggetti di età pari o superiore a 12 anni, che abbiano già completato il ciclo vaccinale primario con tre dosi (di cui la terza addizionale), dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla dose addizionale stessa. La modifica ha interessato i files `anagrafica-vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`.
+
+| Campo | Tipo di dati | Descrizione |
+| --- | --- | --- |
+| booster_immuno | integer | Numero somministrazioni dose booster a soggetti che hanno già completato il ciclo vaccinale primario con tre dosi (di cui la terza addizionale), dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla dose addizionale stessa.|
+
+Aggiunto il file `platea-booster-immunocompromessi` che definisce la popolazione immunocompromessa oggetto di somministrazione di dose booster a seguito del completamento del ciclo vaccinale primario con tre dosi (di cui la terza addizionale) dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla dose addizionale stessa, suddivisa per Regione/Provincia Autonoma.
+
+**platea-booster-immunocompromessi**
+| Campo | Tipo di dati | Descrizione |
+| --- | --- | --- |
+| index | integer | Codice identificativo del record. |
+| area | string | Sigla della Regione/Provincia Autonoma. |
+| nome_area | string | Denominazione standard dell'area (dove necessario denominazione bilingue). |
+| totale_popolazione | integer | Numero totale della popolazione immunocompromessa presente in platea oggetto di somministrazione di dose booster a seguito del completamento del ciclo vaccinale primario con tre dosi (di cui la terza addizionale) dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla dose addizionale stessa, diviso per Regione/Provincia Autonoma. |
+
+## 24/02/2022
+
+È stato dismesso il valore **totale_guariti**. La modifica ha interessato il file `soggetti-guariti`.
+
+Sono stati aggiunti i valori **guariti_senza_somm** e **guariti_post_somm** che identificano il numero di soggetti guariti dall'infezione Covid-19 rispettivamente senza somministrazioni e post 2ª/unica dose. La modifica ha interessato il file `soggetti-guariti`.
+
+| Campo | Tipo di dati | Descrizione |
+| --- | --- | --- |
+| guariti_senza_somm | integer | Numero totale della popolazione guarita da al massimo 6 mesi senza alcuna somministrazione, per una data Regione/Provincia Autonoma e fascia d'età |
+| guariti_post_somm | integer |  Numero totale della popolazione guarita da al massimo 4 mesi post 2ª/unica dose, per una data Regione/Provincia Autonoma e fascia d'età |
+
+
 ## 26/11/2021
 Sono stati dismessi i file `platea-dose-aggiuntiva` e `platea-dose-booster`. 
 
