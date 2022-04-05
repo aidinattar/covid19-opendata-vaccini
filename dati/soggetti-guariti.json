@@ -37,7 +37,7 @@
             "area":"ABR",
             "nome_area":"Abruzzo",
             "fascia_anagrafica":"05-11",
-            "guariti_senza_somm":15684,
+            "guariti_senza_somm":18681,
             "guariti_post_somm":0
         },
         {
@@ -45,71 +45,71 @@
             "area":"ABR",
             "nome_area":"Abruzzo",
             "fascia_anagrafica":"12-19",
-            "guariti_senza_somm":5213,
-            "guariti_post_somm":12701
+            "guariti_senza_somm":6127,
+            "guariti_post_somm":15003
         },
         {
             "index":2,
             "area":"ABR",
             "nome_area":"Abruzzo",
             "fascia_anagrafica":"20-29",
-            "guariti_senza_somm":2761,
-            "guariti_post_somm":16831
+            "guariti_senza_somm":3109,
+            "guariti_post_somm":19497
         },
         {
             "index":3,
             "area":"ABR",
             "nome_area":"Abruzzo",
             "fascia_anagrafica":"30-39",
-            "guariti_senza_somm":4137,
-            "guariti_post_somm":16707
+            "guariti_senza_somm":4720,
+            "guariti_post_somm":19731
         },
         {
             "index":4,
             "area":"ABR",
             "nome_area":"Abruzzo",
             "fascia_anagrafica":"40-49",
-            "guariti_senza_somm":5279,
-            "guariti_post_somm":18467
+            "guariti_senza_somm":6129,
+            "guariti_post_somm":22188
         },
         {
             "index":5,
             "area":"ABR",
             "nome_area":"Abruzzo",
             "fascia_anagrafica":"50-59",
-            "guariti_senza_somm":4419,
-            "guariti_post_somm":14620
+            "guariti_senza_somm":5054,
+            "guariti_post_somm":17534
         },
         {
             "index":6,
             "area":"ABR",
             "nome_area":"Abruzzo",
             "fascia_anagrafica":"60-69",
-            "guariti_senza_somm":1883,
-            "guariti_post_somm":8513
+            "guariti_senza_somm":2255,
+            "guariti_post_somm":10375
         },
         {
             "index":7,
             "area":"ABR",
             "nome_area":"Abruzzo",
             "fascia_anagrafica":"70-79",
-            "guariti_senza_somm":775,
-            "guariti_post_somm":4703
+            "guariti_senza_somm":951,
+            "guariti_post_somm":5824
         },
         {
             "index":8,
             "area":"ABR",
             "nome_area":"Abruzzo",
             "fascia_anagrafica":"80+",
-            "guariti_senza_somm":547,
-            "guariti_post_somm":1634
+            "guariti_senza_somm":660,
+            "guariti_post_somm":2020
         },
         {
             "index":9,
             "area":"BAS",
             "nome_area":"Basilicata",
             "fascia_anagrafica":"05-11",
-            "guariti_senza_somm":4764,
+            "guariti_senza_somm":6117,
             "guariti_post_somm":0
         },
         {
@@ -117,71 +117,71 @@
             "area":"BAS",
             "nome_area":"Basilicata",
             "fascia_anagrafica":"12-19",
-            "guariti_senza_somm":1652,
-            "guariti_post_somm":5153
+            "guariti_senza_somm":2073,
+            "guariti_post_somm":6569
         },
         {
             "index":11,
             "area":"BAS",
             "nome_area":"Basilicata",
             "fascia_anagrafica":"20-29",
-            "guariti_senza_somm":809,
-            "guariti_post_somm":6298
+            "guariti_senza_somm":947,
+            "guariti_post_somm":7586
         },
         {
             "index":12,
             "area":"BAS",
             "nome_area":"Basilicata",
             "fascia_anagrafica":"30-39",
-            "guariti_senza_somm":1307,
-            "guariti_post_somm":5979
+            "guariti_senza_somm":1587,
+            "guariti_post_somm":7564
         },
         {
             "index":13,
             "area":"BAS",
             "nome_area":"Basilicata",
             "fascia_anagrafica":"40-49",
-            "guariti_senza_somm":1473,
-            "guariti_post_somm":6237
+            "guariti_senza_somm":1824,
+            "guariti_post_somm":8117
         },
         {
             "index":14,
             "area":"BAS",
             "nome_area":"Basilicata",
             "fascia_anagrafica":"50-59",
-            "guariti_senza_somm":1135,
-            "guariti_post_somm":5056
+            "guariti_senza_somm":1381,
+            "guariti_post_somm":6416
         },
         {
             "index":15,
             "area":"BAS",
             "nome_area":"Basilicata",
             "fascia_anagrafica":"60-69",
-            "guariti_senza_somm":567,
-            "guariti_post_somm":3444
+            "guariti_senza_somm":704,
+            "guariti_post_somm":4381
         },
         {
             "index":16,
             "area":"BAS",
             "nome_area":"Basilicata",
             "fascia_anagrafica":"70-79",
-            "guariti_senza_somm":244,
-            "guariti_post_somm":1621
+            "guariti_senza_somm":308,
+            "guariti_post_somm":2086
         },
         {
             "index":17,
             "area":"BAS",
             "nome_area":"Basilicata",
             "fascia_anagrafica":"80+",
-            "guariti_senza_somm":136,
-            "guariti_post_somm":444
+            "guariti_senza_somm":181,
+            "guariti_post_somm":561
         },
         {
             "index":18,
             "area":"CAL",
             "nome_area":"Calabria",
             "fascia_anagrafica":"05-11",
-            "guariti_senza_somm":13500,
+            "guariti_senza_somm":19064,
             "guariti_post_somm":0
         },
         {
@@ -189,215 +189,215 @@
             "area":"CAL",
             "nome_area":"Calabria",
             "fascia_anagrafica":"12-19",
-            "guariti_senza_somm":7512,
-            "guariti_post_somm":12798
+            "guariti_senza_somm":9781,
+            "guariti_post_somm":19044
         },
         {
             "index":20,
             "area":"CAL",
             "nome_area":"Calabria",
             "fascia_anagrafica":"20-29",
-            "guariti_senza_somm":4571,
-            "guariti_post_somm":18445
+            "guariti_senza_somm":5402,
+            "guariti_post_somm":23859
         },
         {
             "index":21,
             "area":"CAL",
             "nome_area":"Calabria",
             "fascia_anagrafica":"30-39",
-            "guariti_senza_somm":6124,
-            "guariti_post_somm":17760
+            "guariti_senza_somm":7469,
+            "guariti_post_somm":24666
         },
         {
             "index":22,
             "area":"CAL",
             "nome_area":"Calabria",
             "fascia_anagrafica":"40-49",
-            "guariti_senza_somm":5798,
-            "guariti_post_somm":17826
+            "guariti_senza_somm":7517,
+            "guariti_post_somm":24927
         },
         {
             "index":23,
             "area":"CAL",
             "nome_area":"Calabria",
             "fascia_anagrafica":"50-59",
-            "guariti_senza_somm":4668,
-            "guariti_post_somm":14684
+            "guariti_senza_somm":5691,
+            "guariti_post_somm":19901
         },
         {
             "index":24,
             "area":"CAL",
             "nome_area":"Calabria",
             "fascia_anagrafica":"60-69",
-            "guariti_senza_somm":2577,
-            "guariti_post_somm":9112
+            "guariti_senza_somm":3206,
+            "guariti_post_somm":12190
         },
         {
             "index":25,
             "area":"CAL",
             "nome_area":"Calabria",
             "fascia_anagrafica":"70-79",
-            "guariti_senza_somm":1287,
-            "guariti_post_somm":4464
+            "guariti_senza_somm":1592,
+            "guariti_post_somm":5865
         },
         {
             "index":26,
             "area":"CAL",
             "nome_area":"Calabria",
             "fascia_anagrafica":"80+",
-            "guariti_senza_somm":658,
-            "guariti_post_somm":1553
+            "guariti_senza_somm":848,
+            "guariti_post_somm":1959
         },
         {
             "index":27,
             "area":"CAM",
             "nome_area":"Campania",
             "fascia_anagrafica":"05-11",
-            "guariti_senza_somm":70639,
-            "guariti_post_somm":9
+            "guariti_senza_somm":82534,
+            "guariti_post_somm":30
         },
         {
             "index":28,
             "area":"CAM",
             "nome_area":"Campania",
             "fascia_anagrafica":"12-19",
-            "guariti_senza_somm":31740,
-            "guariti_post_somm":56614
+            "guariti_senza_somm":36499,
+            "guariti_post_somm":64596
         },
         {
             "index":29,
             "area":"CAM",
             "nome_area":"Campania",
             "fascia_anagrafica":"20-29",
-            "guariti_senza_somm":19040,
-            "guariti_post_somm":85510
+            "guariti_senza_somm":20653,
+            "guariti_post_somm":94276
         },
         {
             "index":30,
             "area":"CAM",
             "nome_area":"Campania",
             "fascia_anagrafica":"30-39",
-            "guariti_senza_somm":25253,
-            "guariti_post_somm":79260
+            "guariti_senza_somm":27923,
+            "guariti_post_somm":90698
         },
         {
             "index":31,
             "area":"CAM",
             "nome_area":"Campania",
             "fascia_anagrafica":"40-49",
-            "guariti_senza_somm":24892,
-            "guariti_post_somm":77227
+            "guariti_senza_somm":28053,
+            "guariti_post_somm":89011
         },
         {
             "index":32,
             "area":"CAM",
             "nome_area":"Campania",
             "fascia_anagrafica":"50-59",
-            "guariti_senza_somm":19820,
-            "guariti_post_somm":59857
+            "guariti_senza_somm":21951,
+            "guariti_post_somm":68650
         },
         {
             "index":33,
             "area":"CAM",
             "nome_area":"Campania",
             "fascia_anagrafica":"60-69",
-            "guariti_senza_somm":11087,
-            "guariti_post_somm":42332
+            "guariti_senza_somm":12476,
+            "guariti_post_somm":49316
         },
         {
             "index":34,
             "area":"CAM",
             "nome_area":"Campania",
             "fascia_anagrafica":"70-79",
-            "guariti_senza_somm":5637,
-            "guariti_post_somm":22857
+            "guariti_senza_somm":6436,
+            "guariti_post_somm":26827
         },
         {
             "index":35,
             "area":"CAM",
             "nome_area":"Campania",
             "fascia_anagrafica":"80+",
-            "guariti_senza_somm":3123,
-            "guariti_post_somm":7022
+            "guariti_senza_somm":3690,
+            "guariti_post_somm":7865
         },
         {
             "index":36,
             "area":"EMR",
             "nome_area":"Emilia-Romagna",
             "fascia_anagrafica":"05-11",
-            "guariti_senza_somm":67830,
-            "guariti_post_somm":2
+            "guariti_senza_somm":70365,
+            "guariti_post_somm":3
         },
         {
             "index":37,
             "area":"EMR",
             "nome_area":"Emilia-Romagna",
             "fascia_anagrafica":"12-19",
-            "guariti_senza_somm":24898,
-            "guariti_post_somm":49833
+            "guariti_senza_somm":26662,
+            "guariti_post_somm":52218
         },
         {
             "index":38,
             "area":"EMR",
             "nome_area":"Emilia-Romagna",
             "fascia_anagrafica":"20-29",
-            "guariti_senza_somm":15908,
-            "guariti_post_somm":76594
+            "guariti_senza_somm":16265,
+            "guariti_post_somm":82645
         },
         {
             "index":39,
             "area":"EMR",
             "nome_area":"Emilia-Romagna",
             "fascia_anagrafica":"30-39",
-            "guariti_senza_somm":22934,
-            "guariti_post_somm":76464
+            "guariti_senza_somm":23753,
+            "guariti_post_somm":82616
         },
         {
             "index":40,
             "area":"EMR",
             "nome_area":"Emilia-Romagna",
             "fascia_anagrafica":"40-49",
-            "guariti_senza_somm":31816,
-            "guariti_post_somm":89305
+            "guariti_senza_somm":33443,
+            "guariti_post_somm":96370
         },
         {
             "index":41,
             "area":"EMR",
             "nome_area":"Emilia-Romagna",
             "fascia_anagrafica":"50-59",
-            "guariti_senza_somm":28551,
-            "guariti_post_somm":68128
+            "guariti_senza_somm":30100,
+            "guariti_post_somm":74877
         },
         {
             "index":42,
             "area":"EMR",
             "nome_area":"Emilia-Romagna",
             "fascia_anagrafica":"60-69",
-            "guariti_senza_somm":11659,
-            "guariti_post_somm":35266
+            "guariti_senza_somm":12540,
+            "guariti_post_somm":38727
         },
         {
             "index":43,
             "area":"EMR",
             "nome_area":"Emilia-Romagna",
             "fascia_anagrafica":"70-79",
-            "guariti_senza_somm":4220,
-            "guariti_post_somm":22293
+            "guariti_senza_somm":4596,
+            "guariti_post_somm":24819
         },
         {
             "index":44,
             "area":"EMR",
             "nome_area":"Emilia-Romagna",
             "fascia_anagrafica":"80+",
-            "guariti_senza_somm":2008,
-            "guariti_post_somm":8154
+            "guariti_senza_somm":2291,
+            "guariti_post_somm":9098
         },
         {
             "index":45,
             "area":"FVG",
             "nome_area":"Friuli-Venezia Giulia",
             "fascia_anagrafica":"05-11",
-            "guariti_senza_somm":15723,
+            "guariti_senza_somm":16660,
             "guariti_post_somm":0
         },
         {
@@ -405,71 +405,71 @@
             "area":"FVG",
             "nome_area":"Friuli-Venezia Giulia",
             "fascia_anagrafica":"12-19",
-            "guariti_senza_somm":9661,
-            "guariti_post_somm":9395
+            "guariti_senza_somm":10381,
+            "guariti_post_somm":10130
         },
         {
             "index":47,
             "area":"FVG",
             "nome_area":"Friuli-Venezia Giulia",
             "fascia_anagrafica":"20-29",
-            "guariti_senza_somm":5817,
-            "guariti_post_somm":13612
+            "guariti_senza_somm":6085,
+            "guariti_post_somm":14425
         },
         {
             "index":48,
             "area":"FVG",
             "nome_area":"Friuli-Venezia Giulia",
             "fascia_anagrafica":"30-39",
-            "guariti_senza_somm":8196,
-            "guariti_post_somm":14233
+            "guariti_senza_somm":8668,
+            "guariti_post_somm":14947
         },
         {
             "index":49,
             "area":"FVG",
             "nome_area":"Friuli-Venezia Giulia",
             "fascia_anagrafica":"40-49",
-            "guariti_senza_somm":12683,
-            "guariti_post_somm":15655
+            "guariti_senza_somm":13503,
+            "guariti_post_somm":16246
         },
         {
             "index":50,
             "area":"FVG",
             "nome_area":"Friuli-Venezia Giulia",
             "fascia_anagrafica":"50-59",
-            "guariti_senza_somm":13516,
-            "guariti_post_somm":13096
+            "guariti_senza_somm":14282,
+            "guariti_post_somm":13583
         },
         {
             "index":51,
             "area":"FVG",
             "nome_area":"Friuli-Venezia Giulia",
             "fascia_anagrafica":"60-69",
-            "guariti_senza_somm":5515,
-            "guariti_post_somm":8054
+            "guariti_senza_somm":5930,
+            "guariti_post_somm":8153
         },
         {
             "index":52,
             "area":"FVG",
             "nome_area":"Friuli-Venezia Giulia",
             "fascia_anagrafica":"70-79",
-            "guariti_senza_somm":2318,
-            "guariti_post_somm":5884
+            "guariti_senza_somm":2581,
+            "guariti_post_somm":5957
         },
         {
             "index":53,
             "area":"FVG",
             "nome_area":"Friuli-Venezia Giulia",
             "fascia_anagrafica":"80+",
-            "guariti_senza_somm":1161,
-            "guariti_post_somm":1972
+            "guariti_senza_somm":1416,
+            "guariti_post_somm":1891
         },
         {
             "index":54,
             "area":"LAZ",
             "nome_area":"Lazio",
             "fascia_anagrafica":"05-11",
-            "guariti_senza_somm":69849,
+            "guariti_senza_somm":82134,
             "guariti_post_somm":1
         },
         {
@@ -477,71 +477,71 @@
             "area":"LAZ",
             "nome_area":"Lazio",
             "fascia_anagrafica":"12-19",
-            "guariti_senza_somm":27350,
-            "guariti_post_somm":56080
+            "guariti_senza_somm":32153,
+            "guariti_post_somm":66184
         },
         {
             "index":56,
             "area":"LAZ",
             "nome_area":"Lazio",
             "fascia_anagrafica":"20-29",
-            "guariti_senza_somm":16308,
-            "guariti_post_somm":76202
+            "guariti_senza_somm":18065,
+            "guariti_post_somm":86691
         },
         {
             "index":57,
             "area":"LAZ",
             "nome_area":"Lazio",
             "fascia_anagrafica":"30-39",
-            "guariti_senza_somm":22703,
-            "guariti_post_somm":77416
+            "guariti_senza_somm":25734,
+            "guariti_post_somm":90496
         },
         {
             "index":58,
             "area":"LAZ",
             "nome_area":"Lazio",
             "fascia_anagrafica":"40-49",
-            "guariti_senza_somm":28308,
-            "guariti_post_somm":86286
+            "guariti_senza_somm":32657,
+            "guariti_post_somm":100862
         },
         {
             "index":59,
             "area":"LAZ",
             "nome_area":"Lazio",
             "fascia_anagrafica":"50-59",
-            "guariti_senza_somm":24498,
-            "guariti_post_somm":66680
+            "guariti_senza_somm":27881,
+            "guariti_post_somm":78836
         },
         {
             "index":60,
             "area":"LAZ",
             "nome_area":"Lazio",
             "fascia_anagrafica":"60-69",
-            "guariti_senza_somm":10186,
-            "guariti_post_somm":33207
+            "guariti_senza_somm":12010,
+            "guariti_post_somm":39909
         },
         {
             "index":61,
             "area":"LAZ",
             "nome_area":"Lazio",
             "fascia_anagrafica":"70-79",
-            "guariti_senza_somm":3885,
-            "guariti_post_somm":15086
+            "guariti_senza_somm":4713,
+            "guariti_post_somm":17860
         },
         {
             "index":62,
             "area":"LAZ",
             "nome_area":"Lazio",
             "fascia_anagrafica":"80+",
-            "guariti_senza_somm":1741,
-            "guariti_post_somm":5188
+            "guariti_senza_somm":2193,
+            "guariti_post_somm":5910
         },
         {
             "index":63,
             "area":"LIG",
             "nome_area":"Liguria",
             "fascia_anagrafica":"05-11",
-            "guariti_senza_somm":15591,
+            "guariti_senza_somm":17420,
             "guariti_post_somm":0
         },
         {
@@ -549,143 +549,143 @@
             "area":"LIG",
             "nome_area":"Liguria",
             "fascia_anagrafica":"12-19",
-            "guariti_senza_somm":9161,
-            "guariti_post_somm":13739
+            "guariti_senza_somm":10162,
+            "guariti_post_somm":15348
         },
         {
             "index":65,
             "area":"LIG",
             "nome_area":"Liguria",
             "fascia_anagrafica":"20-29",
-            "guariti_senza_somm":5225,
-            "guariti_post_somm":17776
+            "guariti_senza_somm":5610,
+            "guariti_post_somm":19516
         },
         {
             "index":66,
             "area":"LIG",
             "nome_area":"Liguria",
             "fascia_anagrafica":"30-39",
-            "guariti_senza_somm":7261,
-            "guariti_post_somm":17926
+            "guariti_senza_somm":7937,
+            "guariti_post_somm":19895
         },
         {
             "index":67,
             "area":"LIG",
             "nome_area":"Liguria",
             "fascia_anagrafica":"40-49",
-            "guariti_senza_somm":10198,
-            "guariti_post_somm":22169
+            "guariti_senza_somm":11213,
+            "guariti_post_somm":24402
         },
         {
             "index":68,
             "area":"LIG",
             "nome_area":"Liguria",
             "fascia_anagrafica":"50-59",
-            "guariti_senza_somm":10969,
-            "guariti_post_somm":19748
+            "guariti_senza_somm":11885,
+            "guariti_post_somm":22082
         },
         {
             "index":69,
             "area":"LIG",
             "nome_area":"Liguria",
             "fascia_anagrafica":"60-69",
-            "guariti_senza_somm":4726,
-            "guariti_post_somm":11699
+            "guariti_senza_somm":5287,
+            "guariti_post_somm":13208
         },
         {
             "index":70,
             "area":"LIG",
             "nome_area":"Liguria",
             "fascia_anagrafica":"70-79",
-            "guariti_senza_somm":1752,
-            "guariti_post_somm":6035
+            "guariti_senza_somm":2054,
+            "guariti_post_somm":6732
         },
         {
             "index":71,
             "area":"LIG",
             "nome_area":"Liguria",
             "fascia_anagrafica":"80+",
-            "guariti_senza_somm":889,
-            "guariti_post_somm":2530
+            "guariti_senza_somm":1042,
+            "guariti_post_somm":2860
         },
         {
             "index":72,
             "area":"LOM",
             "nome_area":"Lombardia",
             "fascia_anagrafica":"05-11",
-            "guariti_senza_somm":124114,
-            "guariti_post_somm":1
+            "guariti_senza_somm":132736,
+            "guariti_post_somm":0
         },
         {
             "index":73,
             "area":"LOM",
             "nome_area":"Lombardia",
             "fascia_anagrafica":"12-19",
-            "guariti_senza_somm":35940,
-            "guariti_post_somm":97000
+            "guariti_senza_somm":39772,
+            "guariti_post_somm":101833
         },
         {
             "index":74,
             "area":"LOM",
             "nome_area":"Lombardia",
             "fascia_anagrafica":"20-29",
-            "guariti_senza_somm":23560,
-            "guariti_post_somm":137509
+            "guariti_senza_somm":24939,
+            "guariti_post_somm":146168
         },
         {
             "index":75,
             "area":"LOM",
             "nome_area":"Lombardia",
             "fascia_anagrafica":"30-39",
-            "guariti_senza_somm":35480,
-            "guariti_post_somm":140607
+            "guariti_senza_somm":38020,
+            "guariti_post_somm":152196
         },
         {
             "index":76,
             "area":"LOM",
             "nome_area":"Lombardia",
             "fascia_anagrafica":"40-49",
-            "guariti_senza_somm":46532,
-            "guariti_post_somm":156341
+            "guariti_senza_somm":50656,
+            "guariti_post_somm":168626
         },
         {
             "index":77,
             "area":"LOM",
             "nome_area":"Lombardia",
             "fascia_anagrafica":"50-59",
-            "guariti_senza_somm":43846,
-            "guariti_post_somm":122531
+            "guariti_senza_somm":47343,
+            "guariti_post_somm":133415
         },
         {
             "index":78,
             "area":"LOM",
             "nome_area":"Lombardia",
             "fascia_anagrafica":"60-69",
-            "guariti_senza_somm":18950,
-            "guariti_post_somm":65394
+            "guariti_senza_somm":21000,
+            "guariti_post_somm":71895
         },
         {
             "index":79,
             "area":"LOM",
             "nome_area":"Lombardia",
             "fascia_anagrafica":"70-79",
-            "guariti_senza_somm":7517,
-            "guariti_post_somm":42344
+            "guariti_senza_somm":8466,
+            "guariti_post_somm":46969
         },
         {
             "index":80,
             "area":"LOM",
             "nome_area":"Lombardia",
             "fascia_anagrafica":"80+",
-            "guariti_senza_somm":3795,
-            "guariti_post_somm":12759
+            "guariti_senza_somm":4324,
+            "guariti_post_somm":14191
         },
         {
             "index":81,
             "area":"MAR",
             "nome_area":"Marche",
             "fascia_anagrafica":"05-11",
-            "guariti_senza_somm":24724,
+            "guariti_senza_somm":28933,
             "guariti_post_somm":0
         },
         {
@@ -693,215 +693,215 @@
             "area":"MAR",
             "nome_area":"Marche",
             "fascia_anagrafica":"12-19",
-            "guariti_senza_somm":10401,
-            "guariti_post_somm":15812
+            "guariti_senza_somm":12102,
+            "guariti_post_somm":18780
         },
         {
             "index":83,
             "area":"MAR",
             "nome_area":"Marche",
             "fascia_anagrafica":"20-29",
-            "guariti_senza_somm":5308,
-            "guariti_post_somm":21407
+            "guariti_senza_somm":5822,
+            "guariti_post_somm":24514
         },
         {
             "index":84,
             "area":"MAR",
             "nome_area":"Marche",
             "fascia_anagrafica":"30-39",
-            "guariti_senza_somm":7898,
-            "guariti_post_somm":20681
+            "guariti_senza_somm":8957,
+            "guariti_post_somm":24268
         },
         {
             "index":85,
             "area":"MAR",
             "nome_area":"Marche",
             "fascia_anagrafica":"40-49",
-            "guariti_senza_somm":11622,
-            "guariti_post_somm":23687
+            "guariti_senza_somm":13297,
+            "guariti_post_somm":27554
         },
         {
             "index":86,
             "area":"MAR",
             "nome_area":"Marche",
             "fascia_anagrafica":"50-59",
-            "guariti_senza_somm":9839,
-            "guariti_post_somm":17949
+            "guariti_senza_somm":10932,
+            "guariti_post_somm":21323
         },
         {
             "index":87,
             "area":"MAR",
             "nome_area":"Marche",
             "fascia_anagrafica":"60-69",
-            "guariti_senza_somm":4082,
-            "guariti_post_somm":11199
+            "guariti_senza_somm":4721,
+            "guariti_post_somm":13772
         },
         {
             "index":88,
             "area":"MAR",
             "nome_area":"Marche",
             "fascia_anagrafica":"70-79",
-            "guariti_senza_somm":1502,
-            "guariti_post_somm":6618
+            "guariti_senza_somm":1792,
+            "guariti_post_somm":8373
         },
         {
             "index":89,
             "area":"MAR",
             "nome_area":"Marche",
             "fascia_anagrafica":"80+",
-            "guariti_senza_somm":910,
-            "guariti_post_somm":3404
+            "guariti_senza_somm":1097,
+            "guariti_post_somm":4271
         },
         {
             "index":90,
             "area":"MOL",
             "nome_area":"Molise",
             "fascia_anagrafica":"05-11",
-            "guariti_senza_somm":2141,
-            "guariti_post_somm":7
+            "guariti_senza_somm":2771,
+            "guariti_post_somm":10
         },
         {
             "index":91,
             "area":"MOL",
             "nome_area":"Molise",
             "fascia_anagrafica":"12-19",
-            "guariti_senza_somm":558,
-            "guariti_post_somm":2492
+            "guariti_senza_somm":719,
+            "guariti_post_somm":3002
         },
         {
             "index":92,
             "area":"MOL",
             "nome_area":"Molise",
             "fascia_anagrafica":"20-29",
-            "guariti_senza_somm":350,
-            "guariti_post_somm":3960
+            "guariti_senza_somm":426,
+            "guariti_post_somm":4415
         },
         {
             "index":93,
             "area":"MOL",
             "nome_area":"Molise",
             "fascia_anagrafica":"30-39",
-            "guariti_senza_somm":527,
-            "guariti_post_somm":3104
+            "guariti_senza_somm":664,
+            "guariti_post_somm":3793
         },
         {
             "index":94,
             "area":"MOL",
             "nome_area":"Molise",
             "fascia_anagrafica":"40-49",
-            "guariti_senza_somm":632,
-            "guariti_post_somm":3084
+            "guariti_senza_somm":811,
+            "guariti_post_somm":3829
         },
         {
             "index":95,
             "area":"MOL",
             "nome_area":"Molise",
             "fascia_anagrafica":"50-59",
-            "guariti_senza_somm":480,
-            "guariti_post_somm":2295
+            "guariti_senza_somm":595,
+            "guariti_post_somm":2806
         },
         {
             "index":96,
             "area":"MOL",
             "nome_area":"Molise",
             "fascia_anagrafica":"60-69",
-            "guariti_senza_somm":253,
-            "guariti_post_somm":1370
+            "guariti_senza_somm":325,
+            "guariti_post_somm":1713
         },
         {
             "index":97,
             "area":"MOL",
             "nome_area":"Molise",
             "fascia_anagrafica":"70-79",
-            "guariti_senza_somm":132,
-            "guariti_post_somm":795
+            "guariti_senza_somm":161,
+            "guariti_post_somm":986
         },
         {
             "index":98,
             "area":"MOL",
             "nome_area":"Molise",
             "fascia_anagrafica":"80+",
-            "guariti_senza_somm":61,
-            "guariti_post_somm":190
+            "guariti_senza_somm":82,
+            "guariti_post_somm":236
         },
         {
             "index":99,
             "area":"PAB",
             "nome_area":"P.A. Bolzano",
             "fascia_anagrafica":"05-11",
-            "guariti_senza_somm":12638,
-            "guariti_post_somm":1
+            "guariti_senza_somm":14302,
+            "guariti_post_somm":0
         },
         {
             "index":100,
             "area":"PAB",
             "nome_area":"P.A. Bolzano",
             "fascia_anagrafica":"12-19",
-            "guariti_senza_somm":6536,
-            "guariti_post_somm":6279
+            "guariti_senza_somm":6925,
+            "guariti_post_somm":7225
         },
         {
             "index":101,
             "area":"PAB",
             "nome_area":"P.A. Bolzano",
             "fascia_anagrafica":"20-29",
-            "guariti_senza_somm":5535,
-            "guariti_post_somm":7580
+            "guariti_senza_somm":5943,
+            "guariti_post_somm":8451
         },
         {
             "index":102,
             "area":"PAB",
             "nome_area":"P.A. Bolzano",
             "fascia_anagrafica":"30-39",
-            "guariti_senza_somm":5878,
-            "guariti_post_somm":7966
+            "guariti_senza_somm":6412,
+            "guariti_post_somm":9079
         },
         {
             "index":103,
             "area":"PAB",
             "nome_area":"P.A. Bolzano",
             "fascia_anagrafica":"40-49",
-            "guariti_senza_somm":6460,
-            "guariti_post_somm":7844
+            "guariti_senza_somm":6978,
+            "guariti_post_somm":8910
         },
         {
             "index":104,
             "area":"PAB",
             "nome_area":"P.A. Bolzano",
             "fascia_anagrafica":"50-59",
-            "guariti_senza_somm":6352,
-            "guariti_post_somm":6197
+            "guariti_senza_somm":6788,
+            "guariti_post_somm":7032
         },
         {
             "index":105,
             "area":"PAB",
             "nome_area":"P.A. Bolzano",
             "fascia_anagrafica":"60-69",
-            "guariti_senza_somm":2570,
-            "guariti_post_somm":3160
+            "guariti_senza_somm":2872,
+            "guariti_post_somm":3410
         },
         {
             "index":106,
             "area":"PAB",
             "nome_area":"P.A. Bolzano",
             "fascia_anagrafica":"70-79",
-            "guariti_senza_somm":833,
-            "guariti_post_somm":1960
+            "guariti_senza_somm":954,
+            "guariti_post_somm":2122
         },
         {
             "index":107,
             "area":"PAB",
             "nome_area":"P.A. Bolzano",
             "fascia_anagrafica":"80+",
-            "guariti_senza_somm":433,
-            "guariti_post_somm":741
+            "guariti_senza_somm":500,
+            "guariti_post_somm":756
         },
         {
             "index":108,
             "area":"PAT",
             "nome_area":"P.A. Trento",
             "fascia_anagrafica":"05-11",
-            "guariti_senza_somm":6934,
+            "guariti_senza_somm":7388,
             "guariti_post_somm":0
         },
         {
@@ -909,215 +909,215 @@
             "area":"PAT",
             "nome_area":"P.A. Trento",
             "fascia_anagrafica":"12-19",
-            "guariti_senza_somm":4304,
-            "guariti_post_somm":4868
+            "guariti_senza_somm":4530,
+            "guariti_post_somm":5088
         },
         {
             "index":110,
             "area":"PAT",
             "nome_area":"P.A. Trento",
             "fascia_anagrafica":"20-29",
-            "guariti_senza_somm":2850,
-            "guariti_post_somm":8112
+            "guariti_senza_somm":3001,
+            "guariti_post_somm":8579
         },
         {
             "index":111,
             "area":"PAT",
             "nome_area":"P.A. Trento",
             "fascia_anagrafica":"30-39",
-            "guariti_senza_somm":3801,
-            "guariti_post_somm":7544
+            "guariti_senza_somm":3989,
+            "guariti_post_somm":8050
         },
         {
             "index":112,
             "area":"PAT",
             "nome_area":"P.A. Trento",
             "fascia_anagrafica":"40-49",
-            "guariti_senza_somm":5075,
-            "guariti_post_somm":7650
+            "guariti_senza_somm":5388,
+            "guariti_post_somm":8126
         },
         {
             "index":113,
             "area":"PAT",
             "nome_area":"P.A. Trento",
             "fascia_anagrafica":"50-59",
-            "guariti_senza_somm":5217,
-            "guariti_post_somm":5491
+            "guariti_senza_somm":5524,
+            "guariti_post_somm":5980
         },
         {
             "index":114,
             "area":"PAT",
             "nome_area":"P.A. Trento",
             "fascia_anagrafica":"60-69",
-            "guariti_senza_somm":2074,
-            "guariti_post_somm":2877
+            "guariti_senza_somm":2280,
+            "guariti_post_somm":3174
         },
         {
             "index":115,
             "area":"PAT",
             "nome_area":"P.A. Trento",
             "fascia_anagrafica":"70-79",
-            "guariti_senza_somm":659,
-            "guariti_post_somm":1744
+            "guariti_senza_somm":758,
+            "guariti_post_somm":1963
         },
         {
             "index":116,
             "area":"PAT",
             "nome_area":"P.A. Trento",
             "fascia_anagrafica":"80+",
-            "guariti_senza_somm":294,
-            "guariti_post_somm":604
+            "guariti_senza_somm":337,
+            "guariti_post_somm":641
         },
         {
             "index":117,
             "area":"PIE",
             "nome_area":"Piemonte",
             "fascia_anagrafica":"05-11",
-            "guariti_senza_somm":52814,
-            "guariti_post_somm":1
+            "guariti_senza_somm":55888,
+            "guariti_post_somm":2
         },
         {
             "index":118,
             "area":"PIE",
             "nome_area":"Piemonte",
             "fascia_anagrafica":"12-19",
-            "guariti_senza_somm":22519,
-            "guariti_post_somm":33649
+            "guariti_senza_somm":24382,
+            "guariti_post_somm":35337
         },
         {
             "index":119,
             "area":"PIE",
             "nome_area":"Piemonte",
             "fascia_anagrafica":"20-29",
-            "guariti_senza_somm":14370,
-            "guariti_post_somm":53667
+            "guariti_senza_somm":15008,
+            "guariti_post_somm":56919
         },
         {
             "index":120,
             "area":"PIE",
             "nome_area":"Piemonte",
             "fascia_anagrafica":"30-39",
-            "guariti_senza_somm":21798,
-            "guariti_post_somm":54001
+            "guariti_senza_somm":23129,
+            "guariti_post_somm":57918
         },
         {
             "index":121,
             "area":"PIE",
             "nome_area":"Piemonte",
             "fascia_anagrafica":"40-49",
-            "guariti_senza_somm":29578,
-            "guariti_post_somm":59949
+            "guariti_senza_somm":31639,
+            "guariti_post_somm":64515
         },
         {
             "index":122,
             "area":"PIE",
             "nome_area":"Piemonte",
             "fascia_anagrafica":"50-59",
-            "guariti_senza_somm":27718,
-            "guariti_post_somm":49775
+            "guariti_senza_somm":29303,
+            "guariti_post_somm":54283
         },
         {
             "index":123,
             "area":"PIE",
             "nome_area":"Piemonte",
             "fascia_anagrafica":"60-69",
-            "guariti_senza_somm":12866,
-            "guariti_post_somm":28313
+            "guariti_senza_somm":14133,
+            "guariti_post_somm":31539
         },
         {
             "index":124,
             "area":"PIE",
             "nome_area":"Piemonte",
             "fascia_anagrafica":"70-79",
-            "guariti_senza_somm":5336,
-            "guariti_post_somm":17954
+            "guariti_senza_somm":5942,
+            "guariti_post_somm":21004
         },
         {
             "index":125,
             "area":"PIE",
             "nome_area":"Piemonte",
             "fascia_anagrafica":"80+",
-            "guariti_senza_somm":2354,
-            "guariti_post_somm":6186
+            "guariti_senza_somm":2742,
+            "guariti_post_somm":7470
         },
         {
             "index":126,
             "area":"PUG",
             "nome_area":"Puglia",
             "fascia_anagrafica":"05-11",
-            "guariti_senza_somm":32917,
-            "guariti_post_somm":1
+            "guariti_senza_somm":41787,
+            "guariti_post_somm":7
         },
         {
             "index":127,
             "area":"PUG",
             "nome_area":"Puglia",
             "fascia_anagrafica":"12-19",
-            "guariti_senza_somm":11258,
-            "guariti_post_somm":36392
+            "guariti_senza_somm":14337,
+            "guariti_post_somm":44656
         },
         {
             "index":128,
             "area":"PUG",
             "nome_area":"Puglia",
             "fascia_anagrafica":"20-29",
-            "guariti_senza_somm":6170,
-            "guariti_post_somm":46712
+            "guariti_senza_somm":7194,
+            "guariti_post_somm":54264
         },
         {
             "index":129,
             "area":"PUG",
             "nome_area":"Puglia",
             "fascia_anagrafica":"30-39",
-            "guariti_senza_somm":9075,
-            "guariti_post_somm":42730
+            "guariti_senza_somm":11035,
+            "guariti_post_somm":52552
         },
         {
             "index":130,
             "area":"PUG",
             "nome_area":"Puglia",
             "fascia_anagrafica":"40-49",
-            "guariti_senza_somm":11008,
-            "guariti_post_somm":43819
+            "guariti_senza_somm":13680,
+            "guariti_post_somm":55653
         },
         {
             "index":131,
             "area":"PUG",
             "nome_area":"Puglia",
             "fascia_anagrafica":"50-59",
-            "guariti_senza_somm":8064,
-            "guariti_post_somm":32588
+            "guariti_senza_somm":9657,
+            "guariti_post_somm":41268
         },
         {
             "index":132,
             "area":"PUG",
             "nome_area":"Puglia",
             "fascia_anagrafica":"60-69",
-            "guariti_senza_somm":3737,
-            "guariti_post_somm":20483
+            "guariti_senza_somm":4697,
+            "guariti_post_somm":26628
         },
         {
             "index":133,
             "area":"PUG",
             "nome_area":"Puglia",
             "fascia_anagrafica":"70-79",
-            "guariti_senza_somm":1768,
-            "guariti_post_somm":11305
+            "guariti_senza_somm":2208,
+            "guariti_post_somm":15145
         },
         {
             "index":134,
             "area":"PUG",
             "nome_area":"Puglia",
             "fascia_anagrafica":"80+",
-            "guariti_senza_somm":887,
-            "guariti_post_somm":3230
+            "guariti_senza_somm":1169,
+            "guariti_post_somm":3965
         },
         {
             "index":135,
             "area":"SAR",
             "nome_area":"Sardegna",
             "fascia_anagrafica":"05-11",
-            "guariti_senza_somm":12581,
+            "guariti_senza_somm":15872,
             "guariti_post_somm":0
         },
         {
@@ -1125,71 +1125,71 @@
             "area":"SAR",
             "nome_area":"Sardegna",
             "fascia_anagrafica":"12-19",
-            "guariti_senza_somm":4368,
-            "guariti_post_somm":13168
+            "guariti_senza_somm":5282,
+            "guariti_post_somm":16594
         },
         {
             "index":137,
             "area":"SAR",
             "nome_area":"Sardegna",
             "fascia_anagrafica":"20-29",
-            "guariti_senza_somm":2449,
-            "guariti_post_somm":15357
+            "guariti_senza_somm":2773,
+            "guariti_post_somm":18444
         },
         {
             "index":138,
             "area":"SAR",
             "nome_area":"Sardegna",
             "fascia_anagrafica":"30-39",
-            "guariti_senza_somm":4348,
-            "guariti_post_somm":17003
+            "guariti_senza_somm":5046,
+            "guariti_post_somm":21216
         },
         {
             "index":139,
             "area":"SAR",
             "nome_area":"Sardegna",
             "fascia_anagrafica":"40-49",
-            "guariti_senza_somm":6426,
-            "guariti_post_somm":18147
+            "guariti_senza_somm":7633,
+            "guariti_post_somm":23465
         },
         {
             "index":140,
             "area":"SAR",
             "nome_area":"Sardegna",
             "fascia_anagrafica":"50-59",
-            "guariti_senza_somm":5752,
-            "guariti_post_somm":13669
+            "guariti_senza_somm":6706,
+            "guariti_post_somm":17612
         },
         {
             "index":141,
             "area":"SAR",
             "nome_area":"Sardegna",
             "fascia_anagrafica":"60-69",
-            "guariti_senza_somm":2597,
-            "guariti_post_somm":8799
+            "guariti_senza_somm":3059,
+            "guariti_post_somm":11283
         },
         {
             "index":142,
             "area":"SAR",
             "nome_area":"Sardegna",
             "fascia_anagrafica":"70-79",
-            "guariti_senza_somm":1040,
-            "guariti_post_somm":4390
+            "guariti_senza_somm":1277,
+            "guariti_post_somm":5786
         },
         {
             "index":143,
             "area":"SAR",
             "nome_area":"Sardegna",
             "fascia_anagrafica":"80+",
-            "guariti_senza_somm":561,
-            "guariti_post_somm":1481
+            "guariti_senza_somm":718,
+            "guariti_post_somm":2038
         },
         {
             "index":144,
             "area":"SIC",
             "nome_area":"Sicilia",
             "fascia_anagrafica":"05-11",
-            "guariti_senza_somm":47936,
+            "guariti_senza_somm":61855,
             "guariti_post_somm":0
         },
         {
@@ -1197,143 +1197,143 @@
             "area":"SIC",
             "nome_area":"Sicilia",
             "fascia_anagrafica":"12-19",
-            "guariti_senza_somm":25933,
-            "guariti_post_somm":40707
+            "guariti_senza_somm":31607,
+            "guariti_post_somm":53793
         },
         {
             "index":146,
             "area":"SIC",
             "nome_area":"Sicilia",
             "fascia_anagrafica":"20-29",
-            "guariti_senza_somm":15948,
-            "guariti_post_somm":60597
+            "guariti_senza_somm":17340,
+            "guariti_post_somm":73080
         },
         {
             "index":147,
             "area":"SIC",
             "nome_area":"Sicilia",
             "fascia_anagrafica":"30-39",
-            "guariti_senza_somm":21796,
-            "guariti_post_somm":60225
+            "guariti_senza_somm":25078,
+            "guariti_post_somm":76252
         },
         {
             "index":148,
             "area":"SIC",
             "nome_area":"Sicilia",
             "fascia_anagrafica":"40-49",
-            "guariti_senza_somm":22030,
-            "guariti_post_somm":62044
+            "guariti_senza_somm":25707,
+            "guariti_post_somm":79568
         },
         {
             "index":149,
             "area":"SIC",
             "nome_area":"Sicilia",
             "fascia_anagrafica":"50-59",
-            "guariti_senza_somm":17091,
-            "guariti_post_somm":52925
+            "guariti_senza_somm":19427,
+            "guariti_post_somm":66303
         },
         {
             "index":150,
             "area":"SIC",
             "nome_area":"Sicilia",
             "fascia_anagrafica":"60-69",
-            "guariti_senza_somm":10444,
-            "guariti_post_somm":33150
+            "guariti_senza_somm":11876,
+            "guariti_post_somm":41088
         },
         {
             "index":151,
             "area":"SIC",
             "nome_area":"Sicilia",
             "fascia_anagrafica":"70-79",
-            "guariti_senza_somm":5411,
-            "guariti_post_somm":18358
+            "guariti_senza_somm":6313,
+            "guariti_post_somm":22458
         },
         {
             "index":152,
             "area":"SIC",
             "nome_area":"Sicilia",
             "fascia_anagrafica":"80+",
-            "guariti_senza_somm":2898,
-            "guariti_post_somm":7788
+            "guariti_senza_somm":3473,
+            "guariti_post_somm":9239
         },
         {
             "index":153,
             "area":"TOS",
             "nome_area":"Toscana",
             "fascia_anagrafica":"05-11",
-            "guariti_senza_somm":50425,
-            "guariti_post_somm":6
+            "guariti_senza_somm":55954,
+            "guariti_post_somm":10
         },
         {
             "index":154,
             "area":"TOS",
             "nome_area":"Toscana",
             "fascia_anagrafica":"12-19",
-            "guariti_senza_somm":15673,
-            "guariti_post_somm":42870
+            "guariti_senza_somm":17729,
+            "guariti_post_somm":48346
         },
         {
             "index":155,
             "area":"TOS",
             "nome_area":"Toscana",
             "fascia_anagrafica":"20-29",
-            "guariti_senza_somm":9283,
-            "guariti_post_somm":56185
+            "guariti_senza_somm":9914,
+            "guariti_post_somm":63382
         },
         {
             "index":156,
             "area":"TOS",
             "nome_area":"Toscana",
             "fascia_anagrafica":"30-39",
-            "guariti_senza_somm":13644,
-            "guariti_post_somm":55895
+            "guariti_senza_somm":15058,
+            "guariti_post_somm":64444
         },
         {
             "index":157,
             "area":"TOS",
             "nome_area":"Toscana",
             "fascia_anagrafica":"40-49",
-            "guariti_senza_somm":19829,
-            "guariti_post_somm":69128
+            "guariti_senza_somm":22075,
+            "guariti_post_somm":78934
         },
         {
             "index":158,
             "area":"TOS",
             "nome_area":"Toscana",
             "fascia_anagrafica":"50-59",
-            "guariti_senza_somm":18817,
-            "guariti_post_somm":56678
+            "guariti_senza_somm":20817,
+            "guariti_post_somm":65859
         },
         {
             "index":159,
             "area":"TOS",
             "nome_area":"Toscana",
             "fascia_anagrafica":"60-69",
-            "guariti_senza_somm":7917,
-            "guariti_post_somm":30860
+            "guariti_senza_somm":9107,
+            "guariti_post_somm":36615
         },
         {
             "index":160,
             "area":"TOS",
             "nome_area":"Toscana",
             "fascia_anagrafica":"70-79",
-            "guariti_senza_somm":3306,
-            "guariti_post_somm":19324
+            "guariti_senza_somm":3784,
+            "guariti_post_somm":23873
         },
         {
             "index":161,
             "area":"TOS",
             "nome_area":"Toscana",
             "fascia_anagrafica":"80+",
-            "guariti_senza_somm":1531,
-            "guariti_post_somm":4333
+            "guariti_senza_somm":1795,
+            "guariti_post_somm":4954
         },
         {
             "index":162,
             "area":"UMB",
             "nome_area":"Umbria",
             "fascia_anagrafica":"05-11",
-            "guariti_senza_somm":11080,
+            "guariti_senza_somm":14093,
             "guariti_post_somm":0
         },
         {
@@ -1341,71 +1341,71 @@
             "area":"UMB",
             "nome_area":"Umbria",
             "fascia_anagrafica":"12-19",
-            "guariti_senza_somm":3724,
-            "guariti_post_somm":9046
+            "guariti_senza_somm":4575,
+            "guariti_post_somm":11674
         },
         {
             "index":164,
             "area":"UMB",
             "nome_area":"Umbria",
             "fascia_anagrafica":"20-29",
-            "guariti_senza_somm":1982,
-            "guariti_post_somm":12091
+            "guariti_senza_somm":2270,
+            "guariti_post_somm":14773
         },
         {
             "index":165,
             "area":"UMB",
             "nome_area":"Umbria",
             "fascia_anagrafica":"30-39",
-            "guariti_senza_somm":2891,
-            "guariti_post_somm":11886
+            "guariti_senza_somm":3448,
+            "guariti_post_somm":15433
         },
         {
             "index":166,
             "area":"UMB",
             "nome_area":"Umbria",
             "fascia_anagrafica":"40-49",
-            "guariti_senza_somm":3707,
-            "guariti_post_somm":13827
+            "guariti_senza_somm":4563,
+            "guariti_post_somm":17909
         },
         {
             "index":167,
             "area":"UMB",
             "nome_area":"Umbria",
             "fascia_anagrafica":"50-59",
-            "guariti_senza_somm":3294,
-            "guariti_post_somm":10391
+            "guariti_senza_somm":3905,
+            "guariti_post_somm":13678
         },
         {
             "index":168,
             "area":"UMB",
             "nome_area":"Umbria",
             "fascia_anagrafica":"60-69",
-            "guariti_senza_somm":1312,
-            "guariti_post_somm":5676
+            "guariti_senza_somm":1625,
+            "guariti_post_somm":7895
         },
         {
             "index":169,
             "area":"UMB",
             "nome_area":"Umbria",
             "fascia_anagrafica":"70-79",
-            "guariti_senza_somm":505,
-            "guariti_post_somm":4239
+            "guariti_senza_somm":677,
+            "guariti_post_somm":6126
         },
         {
             "index":170,
             "area":"UMB",
             "nome_area":"Umbria",
             "fascia_anagrafica":"80+",
-            "guariti_senza_somm":345,
-            "guariti_post_somm":1302
+            "guariti_senza_somm":444,
+            "guariti_post_somm":1711
         },
         {
             "index":171,
             "area":"VDA",
             "nome_area":"Valle d'Aosta",
             "fascia_anagrafica":"05-11",
-            "guariti_senza_somm":828,
+            "guariti_senza_somm":868,
             "guariti_post_somm":0
         },
         {
@@ -1413,136 +1413,136 @@
             "area":"VDA",
             "nome_area":"Valle d'Aosta",
             "fascia_anagrafica":"12-19",
-            "guariti_senza_somm":901,
-            "guariti_post_somm":729
+            "guariti_senza_somm":928,
+            "guariti_post_somm":812
         },
         {
             "index":173,
             "area":"VDA",
             "nome_area":"Valle d'Aosta",
             "fascia_anagrafica":"20-29",
-            "guariti_senza_somm":537,
-            "guariti_post_somm":1202
+            "guariti_senza_somm":554,
+            "guariti_post_somm":1299
         },
         {
             "index":174,
             "area":"VDA",
             "nome_area":"Valle d'Aosta",
             "fascia_anagrafica":"30-39",
-            "guariti_senza_somm":784,
-            "guariti_post_somm":1277
+            "guariti_senza_somm":824,
+            "guariti_post_somm":1370
         },
         {
             "index":175,
             "area":"VDA",
             "nome_area":"Valle d'Aosta",
             "fascia_anagrafica":"40-49",
-            "guariti_senza_somm":1198,
-            "guariti_post_somm":1373
+            "guariti_senza_somm":1257,
+            "guariti_post_somm":1443
         },
         {
             "index":176,
             "area":"VDA",
             "nome_area":"Valle d'Aosta",
             "fascia_anagrafica":"50-59",
-            "guariti_senza_somm":1133,
-            "guariti_post_somm":1164
+            "guariti_senza_somm":1182,
+            "guariti_post_somm":1243
         },
         {
             "index":177,
             "area":"VDA",
             "nome_area":"Valle d'Aosta",
             "fascia_anagrafica":"60-69",
-            "guariti_senza_somm":466,
-            "guariti_post_somm":709
+            "guariti_senza_somm":503,
+            "guariti_post_somm":772
         },
         {
             "index":178,
             "area":"VDA",
             "nome_area":"Valle d'Aosta",
             "fascia_anagrafica":"70-79",
-            "guariti_senza_somm":192,
-            "guariti_post_somm":324
+            "guariti_senza_somm":201,
+            "guariti_post_somm":355
         },
         {
             "index":179,
             "area":"VDA",
             "nome_area":"Valle d'Aosta",
             "fascia_anagrafica":"80+",
-            "guariti_senza_somm":78,
-            "guariti_post_somm":112
+            "guariti_senza_somm":82,
+            "guariti_post_somm":122
         },
         {
             "index":180,
             "area":"VEN",
             "nome_area":"Veneto",
             "fascia_anagrafica":"05-11",
-            "guariti_senza_somm":71084,
-            "guariti_post_somm":6
+            "guariti_senza_somm":77679,
+            "guariti_post_somm":8
         },
         {
             "index":181,
             "area":"VEN",
             "nome_area":"Veneto",
             "fascia_anagrafica":"12-19",
-            "guariti_senza_somm":34023,
-            "guariti_post_somm":47891
+            "guariti_senza_somm":37016,
+            "guariti_post_somm":53609
         },
         {
             "index":182,
             "area":"VEN",
             "nome_area":"Veneto",
             "fascia_anagrafica":"20-29",
-            "guariti_senza_somm":21626,
-            "guariti_post_somm":75001
+            "guariti_senza_somm":22933,
+            "guariti_post_somm":83769
         },
         {
             "index":183,
             "area":"VEN",
             "nome_area":"Veneto",
             "fascia_anagrafica":"30-39",
-            "guariti_senza_somm":30563,
-            "guariti_post_somm":73064
+            "guariti_senza_somm":32705,
+            "guariti_post_somm":81768
         },
         {
             "index":184,
             "area":"VEN",
             "nome_area":"Veneto",
             "fascia_anagrafica":"40-49",
-            "guariti_senza_somm":43917,
-            "guariti_post_somm":78648
+            "guariti_senza_somm":47445,
+            "guariti_post_somm":88534
         },
         {
             "index":185,
             "area":"VEN",
             "nome_area":"Veneto",
             "fascia_anagrafica":"50-59",
-            "guariti_senza_somm":43472,
-            "guariti_post_somm":63251
+            "guariti_senza_somm":46701,
+            "guariti_post_somm":72309
         },
         {
             "index":186,
             "area":"VEN",
             "nome_area":"Veneto",
             "fascia_anagrafica":"60-69",
-            "guariti_senza_somm":16969,
-            "guariti_post_somm":35754
+            "guariti_senza_somm":18903,
+            "guariti_post_somm":40968
         },
         {
             "index":187,
             "area":"VEN",
             "nome_area":"Veneto",
             "fascia_anagrafica":"70-79",
-            "guariti_senza_somm":5959,
-            "guariti_post_somm":22273
+            "guariti_senza_somm":6767,
+            "guariti_post_somm":26228
         },
         {
             "index":188,
             "area":"VEN",
             "nome_area":"Veneto",
             "fascia_anagrafica":"80+",
-            "guariti_senza_somm":2651,
-            "guariti_post_somm":9128
+            "guariti_senza_somm":3080,
+            "guariti_post_somm":10646
         }
     ]
 }
